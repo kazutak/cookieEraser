@@ -17,7 +17,7 @@ It's very simple.
 
 2.Open Chrome and input "chrome://extensions/" in URL bar.
 
-3.Click "Load unpacked extension" button to the load manifest.json file.
+3.Click "Load unpacked extension" button to load the manifest.json file.
 
 Or download a crx file from "https://raw.github.com/wiki/kazutak/cookieEraser/crx/CookieEraser.crx", and drag and drop into the Chrome's extensions page.
 
