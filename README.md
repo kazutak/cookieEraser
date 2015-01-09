@@ -12,9 +12,11 @@ It's very simple.
 
 1.Download files.
 
-2.Open Chrome and input "chrome://settings/" in URL bar.
+2.Open Chrome and input "chrome://extensions/" in URL bar.
 
 3.Click "Load unpacked extension" button to the load manifest.json file.
+
+Or download a crx file from "http://goo.gl/E6bxwS", and drag and drop into the Chrome's extensions page.
 
 ##License
 MIT
