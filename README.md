@@ -8,6 +8,9 @@ It's very simple.
 - Click the icon on the Chrome tool bar.
 - Click "Erase All Cookies" button to erase all cookies on the page which is shown the tab.
 
+## Screen Shot
+![Screen Shot](https://raw.github.com/wiki/kazutak/cookieEraser/images/screen_shot.png)
+
 ##Installation
 
 1.Download files.
@@ -16,7 +19,7 @@ It's very simple.
 
 3.Click "Load unpacked extension" button to the load manifest.json file.
 
-Or download a crx file from "http://goo.gl/E6bxwS", and drag and drop into the Chrome's extensions page.
+Or download a crx file from "https://raw.github.com/wiki/kazutak/cookieEraser/crx/CookieRraser.crx", and drag and drop into the Chrome's extensions page.
 
 ##License
 MIT
